@@ -121,5 +121,3 @@ Kontribusi selalu diterima! Jika Anda ingin menambahkan fitur atau memperbaiki b
 3. Commit perubahan Anda (`git commit -m 'Menambahkan fitur baru'`).
 4. Push ke branch (`git push origin fitur-baru`).
 5. Buat Pull Request.
-
-## Lisensi
