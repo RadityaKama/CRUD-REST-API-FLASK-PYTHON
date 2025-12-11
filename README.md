@@ -123,5 +123,3 @@ Kontribusi selalu diterima! Jika Anda ingin menambahkan fitur atau memperbaiki b
 5. Buat Pull Request.
 
 ## Lisensi
-
-[MIT License](LICENSE)
